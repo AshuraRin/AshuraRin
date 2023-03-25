@@ -4,8 +4,7 @@
 
 ## Test<img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
-
+I am Faiz Fitri and I'm currently a student at UTMKL
 ### 📚 Courses
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
 - [Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)
