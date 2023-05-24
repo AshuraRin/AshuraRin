@@ -5,16 +5,5 @@
 ## Test<img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
 I am Faiz Fitri and I'm currently a student at UTMKL
-### 📚 Courses
-- [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
-- [Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)
-- [Web Programming - PHP](https://github.com/drshahizan/learn-php)
-- High Performance Data Processing 
-  -   [Python for beginners](https://github.com/drshahizan/python-tutorial)
-  -   [Web scraping and Python web framework](https://github.com/drshahizan/python-web)
-  -   [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
-  -   [Big data processing](https://github.com/drshahizan/Python-big-data)
-  -   [Case Study](https://github.com/drshahizan/python-tutorial/blob/main/case-study.md)
-- [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
-- [Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)
-- [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
+
+![Muhammad Faiz Fitri](https://github.com/AshuraRin/AshuraRin/assets/124875956/360dda13-feb4-4645-aa30-b0e281e8c02b)
