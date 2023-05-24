@@ -2,7 +2,7 @@
 ![GitHub Follow](https://img.shields.io/github/followers/drshahizan.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/drshahizan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-## Test<img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
+Hello <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
 I am Faiz Fitri and I'm currently a student at UTMKL
 
